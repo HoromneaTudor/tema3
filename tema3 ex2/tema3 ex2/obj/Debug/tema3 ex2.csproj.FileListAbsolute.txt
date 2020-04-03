@@ -1,0 +1,6 @@
+C:\Users\Tudor\source\repos\tema3 ex2\tema3 ex2\bin\Debug\tema3 ex2.exe.config
+C:\Users\Tudor\source\repos\tema3 ex2\tema3 ex2\bin\Debug\tema3 ex2.exe
+C:\Users\Tudor\source\repos\tema3 ex2\tema3 ex2\bin\Debug\tema3 ex2.pdb
+C:\Users\Tudor\source\repos\tema3 ex2\tema3 ex2\obj\Debug\tema3 ex2.csprojAssemblyReference.cache
+C:\Users\Tudor\source\repos\tema3 ex2\tema3 ex2\obj\Debug\tema3 ex2.exe
+C:\Users\Tudor\source\repos\tema3 ex2\tema3 ex2\obj\Debug\tema3 ex2.pdb
